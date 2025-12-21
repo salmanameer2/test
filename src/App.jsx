@@ -70,6 +70,8 @@ function App() {
 
   return (
     <div className="container">
+      <h1>hi ahmad </h1>
+      <p>hi ahssan</p>
       <h1 className="title">Password Generator</h1>
       
       {/* Display generated password */}
